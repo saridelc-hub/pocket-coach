@@ -11,6 +11,7 @@ const POSITION_COORDS = {
   SF:   { x: 150, y: 80 },
   LF:   { x: 35,  y: 55 },
   CF:   { x: 150, y: 25 },
+  RCF:  { x: 210, y: 35 },
   RF:   { x: 265, y: 55 },
   D:    { x: 270, y: 140 },
   A:    { x: 30,  y: 140 },
