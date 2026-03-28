@@ -1,10 +1,10 @@
 // Pocket Coach — Constantes
-export const POSICIONES = ['P', 'C', '1B', '2B', '3B', 'SS', 'SF', 'LF', 'CF', 'RF', 'DP', 'FLEX'];
+export const POSICIONES = ['P', 'C', '1B', '2B', '3B', 'SS', 'SF', 'LF', 'CF', 'RF', 'D', 'A'];
 
 export const POSICIONES_LABELS = {
   P: 'Pitcher', C: 'Catcher', '1B': 'Primera Base', '2B': 'Segunda Base',
   '3B': 'Tercera Base', SS: 'Short Stop', SF: 'Short Field', LF: 'Left Field', CF: 'Center Field',
-  RF: 'Right Field', DP: 'Designated Player', FLEX: 'Flex'
+  RF: 'Right Field', D: 'Designada', A: 'Bateadora Asignada'
 };
 
 export const RESULTADOS_BATEO = {

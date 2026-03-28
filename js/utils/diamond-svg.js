@@ -12,8 +12,8 @@ const POSITION_COORDS = {
   LF:   { x: 35,  y: 55 },
   CF:   { x: 150, y: 25 },
   RF:   { x: 265, y: 55 },
-  DP:   { x: 270, y: 140 },
-  FLEX: { x: 30,  y: 140 },
+  D:    { x: 270, y: 140 },
+  A:    { x: 30,  y: 140 },
 };
 
 export function renderDiamond(assignments = {}, onPositionClick = null) {

@@ -1,5 +1,5 @@
 // Pocket Coach — Service Worker
-const CACHE_VERSION = 'pocket-coach-v1';
+const CACHE_VERSION = 'pocket-coach-v2';
 const ASSETS = [
   './',
   './index.html',
