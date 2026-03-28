@@ -1,0 +1,23 @@
+{
+  "name": "Pocket Coach - Softbol",
+  "short_name": "PocketCoach",
+  "description": "Herramienta de entrenamiento de softbol",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#e94560",
+  "lang": "es",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
