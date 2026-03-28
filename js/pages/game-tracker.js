@@ -32,7 +32,7 @@ function renderGameList() {
   if (games.length === 0 && !currentGame) {
     return `
       <div class="empty-state">
-        <div class="empty-icon">&#9917;</div>
+        <div class="empty-icon">&#129358;</div>
         <p>No hay juegos registrados</p>
         <button class="btn btn-primary" id="new-game-btn">Nuevo Juego</button>
       </div>
